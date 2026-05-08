@@ -91,10 +91,9 @@ MISSION     :: Create modern digital experiences
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abishan-N&show_icons=true&theme=radical" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Abishan-N&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
+
 ---
 
 # 📈 Contribution Graph
