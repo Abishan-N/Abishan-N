@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:8B0000,100:FF0000&text=Welcome%20To%20My%20Profile&fontColor=ffffff&fontSize=45&animation=fadeIn" />
 
 <p align="center">
-  <img width="260" src="https://media.giphy.com/media/oFpAvbDkk5jEI/giphy.gif">
+ <img width="260" src="https://media.tenor.com/2uyENRmiUt0AAAAC/spiderman.gif">
 </p>
 
 <h1 align="center">Hey there, I'm Abishan 🕷️</h1>
