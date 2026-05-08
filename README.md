@@ -1,109 +1,100 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:8B0000,100:FF0000&text=Welcome%20To%20My%20Profile&fontColor=ffffff&fontSize=45&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:8B0000,100:FF0000&text=Hello%20World!&fontColor=ffffff&fontSize=45&animation=fadeIn" />
 
 <p align="center">
- <img width="260" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzBuYTRpeXBveHVpYzFucTFzcWdnbXJwdnlvM2t1cTd0ZDByMTJsNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dJo9h2zrdANo1GO3pd/giphy.gif">
+ <img width="450" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzBuYTRpeXBveHVpYzFucTFzcWdnbXJwdnlvM2t1cTd0ZDByMTJsNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dJo9h2zrdANo1GO3pd/giphy.gif">
 </p>
 
 <h1 align="center">Hey there, I'm Abishan 🕷️</h1>
 
 <h3 align="center">
-Full-Stack Developer • UI/UX Enthusiast • Friendly Neighborhood Coder
+Computer Science Student • Frontend & UI Lover • Creative Video Editor • Beginner Full-Stack Developer
 </h3>
 
 <p align="center">
-Building awesome experiences from idea to reality ⚡
+Learning, building, and improving every day 🚀
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;UI%2FUX+Designer;Spider-Man+Fan+🕷️;Building+Premium+Dark+UIs;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Passionate+Video+Editor+🎬;Beginner+Full-Stack+Developer+💻;App+Development+Learner+📱;Exploring+Modern+Technologies+🚀;Building+Skills+Step+by+Step+⚡" />
 </p>
 
 ---
 
 # 🕷️ About Me
 
-```javascript
-const abishan = {
-  pronouns: "he/him",
-  location: "Sri Lanka",
-  education: "Computer Science Student",
-  currentFocus: "Full-Stack Development & System Design",
-  currentlyLearning: ["Next.js", "Backend Architecture", "UI/UX"],
-  funFact: "I love building premium dark themed experiences ✨"
-};
+```txt
+[ SYSTEM INFO ]
+
+NAME        :: Abishan
+ROLE        :: Aspiring Full-Stack Developer
+STATUS      :: Learning & Building
+LOCATION    :: Sri Lanka
+SPECIALITY  :: Video Editing + UI Design
+CURRENT XP  :: App Development
+MISSION     :: Create modern digital experiences
 ```
 
 ---
 
-# 🛠️ Tech Arsenal
+# ⚡ Power Stack
 
 ## 💻 Programming Languages
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" />
-<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+
+</p>
+---
+
+## ⚙️ Currently Learning & Using
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=red" />
-
-</p>
-
----
-
-## ⚙️ Frameworks & Libraries
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=3C873A" />
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
 
 </p>
 
 ---
 
-## 🗄️ Databases & Tools
+## 🛠 Tools I Use
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🎨 Creative Side
 
 <p align="center">
 
-<a href="https://github.com/Abishan-N">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Abishan-N&repo=YOUR_REPOSITORY_NAME&theme=radical" />
-</a>
-
-<a href="https://github.com/Abishan-N">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Abishan-N&repo=YOUR_SECOND_REPOSITORY&theme=radical" />
-</a>
+<img src="https://img.shields.io/badge/Video%20Editing-black?style=for-the-badge&logo=adobe-premiere-pro&logoColor=9999FF" />
+<img src="https://img.shields.io/badge/UI%20Design-black?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Cinematic%20Edits-black?style=for-the-badge" />
 
 </p>
-
 ---
 
-# 📊 Hero Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abishan-N&show_icons=true&theme=radical" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abishan-N&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abishan-N&show_icons=true&theme=radical&border_radius=10" />
 
 </p>
-
 ---
 
 # 📈 Contribution Graph
@@ -134,11 +125,11 @@ const abishan = {
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:naanhibs967@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/abishann">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
