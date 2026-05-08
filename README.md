@@ -48,6 +48,7 @@ MISSION     :: Create modern digital experiences
 <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
 
 </p>
+
 ---
 
 ## ⚙️ Currently Learning & Using
@@ -86,7 +87,9 @@ MISSION     :: Create modern digital experiences
 <img src="https://img.shields.io/badge/Cinematic%20Edits-black?style=for-the-badge" />
 
 </p>
+
 ---
+
 
 # 📊 GitHub Analytics
 
