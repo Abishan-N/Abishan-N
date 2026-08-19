@@ -90,20 +90,6 @@ MISSION     :: Create modern digital experiences
 
 ---
 
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abishan-N&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abishan-N&theme=tokyonight" />
-
-</p>
-
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
