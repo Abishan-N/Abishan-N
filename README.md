@@ -90,6 +90,117 @@ MISSION     :: Create modern digital experiences
 
 ---
 
+# 🚀 My Projects
+
+<h3 align="center">🧠 <a href="https://github.com/Abishan-N/prepwise-lite">PrepWise AI</a></h3>
+
+<p align="center">
+AI-powered study planner — students enter their subject, topics, and exam date, and get a structured study schedule generated automatically. Plans are saved to the database and can be revisited any time.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
+<img src="https://img.shields.io/badge/Groq%20AI-black?style=for-the-badge&logo=openai&logoColor=FF0000" />
+
+</p>
+
+<p align="center">
+
+<a href="https://prepwise-lite-smoky.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/Abishan-N/prepwise-lite">
+  <img src="https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">🎨 <a href="https://github.com/Abishan-N/abishan-portfolio">Abishan Portfolio</a></h3>
+
+<p align="center">
+Premium personal portfolio website built with React and Framer Motion — animated preloader, glassmorphism navbar, video hero, scroll-driven SVG timeline, and a fully responsive red-on-black design system.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=0055FF" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+</p>
+
+<p align="center">
+
+<a href="https://abishan-portfolio-wine.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/Abishan-N/abishan-portfolio">
+  <img src="https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">📊 <a href="https://github.com/Abishan-N/amazon-sales-analysis">Amazon India Sales Analysis</a></h3>
+
+<p align="center">
+Business analytics mini project on 100,000 Amazon India sales transactions — an interactive Excel dashboard with KPI cards and slicers, plus a Pandas notebook covering category, state, customer, and payment-mode breakdowns with monthly trend analysis.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=plotly&logoColor=11557C" />
+<img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+<img src="https://img.shields.io/badge/Excel-black?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Abishan-N/amazon-sales-analysis">
+  <img src="https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">🛒 <a href="https://github.com/Abishan-N/Customer-Retail-Machine-Learning-Project">Customer Retail ML Project</a></h3>
+
+<p align="center">
+End-to-end machine learning pipeline on a customer retail dataset — preprocessing, missing-value handling, categorical encoding, and data visualization, followed by training and comparing three classification models on accuracy.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=013243" />
+<img src="https://img.shields.io/badge/Google%20Colab-black?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Abishan-N/Customer-Retail-Machine-Learning-Project">
+  <img src="https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
